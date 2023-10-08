@@ -1,2 +1,2 @@
 # ECE314
-ECE 314 Labs
+ECE 314 - Probability in Engineering Lab
